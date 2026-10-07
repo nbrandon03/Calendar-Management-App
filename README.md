@@ -77,7 +77,9 @@ make clean
 
 ## Screenshots
 <img width="982" height="685" alt="image" src="https://github.com/user-attachments/assets/65f75690-483b-4e1c-8e36-9d59e1ad550e" />
-
+<img width="395" height="212" alt="123123123123123123" src="https://github.com/user-attachments/assets/3c9c19b0-b300-4f6c-9e16-1814bb20ae56" />
+<img width="981" height="690" alt="123123123123123" src="https://github.com/user-attachments/assets/5d9fbb3e-fb9e-400c-aa70-b15462e3e162" />
+<img width="982" height="690" alt="123123123" src="https://github.com/user-attachments/assets/1b0fac60-f388-4632-a77d-2f15d3c93343" />
 
 ## My Contributions
 
