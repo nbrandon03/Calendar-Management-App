@@ -1,0 +1,7 @@
+Local
+Default
+Month
+false
+Auto
+43.5448
+-80.2482

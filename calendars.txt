@@ -1,0 +1,2 @@
+Personal|#0AAAFF|1
+School|#FF00FF|1
