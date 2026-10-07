@@ -1,10 +1,10 @@
 # ClearDay Calendar Application
 
-ClearDay is a desktop calendar application prototype developed in **C++ using wxWidgets**. The application provides an interactive interface for organizing events and viewing schedules across multiple calendar layouts.
+ClearDay is a desktop calendar application prototype developed in **C++ using wxWidgets**. The application provides an interactive interface for managing events, viewing schedules, organizing tasks, and configuring calendar settings.
 
 ## Features
 
-* Create, edit, and delete events
+* Create, edit, and delete calendar events
 * Daily, weekly, and monthly calendar views
 * All-day and timed events
 * Event descriptions
@@ -14,7 +14,9 @@ ClearDay is a desktop calendar application prototype developed in **C++ using wx
 * Keyword-based event search
 * Calendar navigation
 * Current-day highlighting
-* Calendar customization and settings
+* Task and checklist management
+* Calendar settings and customization
+* Weather information integration
 
 ## Technologies
 
@@ -26,14 +28,19 @@ ClearDay is a desktop calendar application prototype developed in **C++ using wx
 
 ## Project Structure
 
-The application is organized into separate components for calendar data, date handling, and the graphical user interface.
+The application is divided into several components responsible for calendar management, event handling, tasks, settings, and the graphical user interface.
 
-Key components include:
-
-* `Calendar` — manages calendar and event data
-* `Date` — handles date-related functionality
-* `CalendarView` — manages calendar visualization and navigation
-* `main` — initializes and runs the application
+| Component      | Description                                                   |
+| -------------- | ------------------------------------------------------------- |
+| `Calendar`     | Manages calendar data and calendar-related functionality      |
+| `CalendarView` | Handles the visual calendar interface and calendar navigation |
+| `Checklist`    | Provides checklist functionality for managing tasks           |
+| `Date`         | Handles date-related functionality                            |
+| `Event`        | Represents and manages calendar events                        |
+| `Main`         | Initializes and runs the application                          |
+| `Settings`     | Manages application and calendar settings                     |
+| `Tasks`        | Handles task-related functionality                            |
+| `WeatherAPI`   | Handles integration with weather information                  |
 
 ## Building and Running
 
@@ -73,7 +80,7 @@ Screenshots of the application will be added here.
 
 ## Development
 
-ClearDay was developed as a collaborative software development project. The project focused on C++ application development, GUI design with wxWidgets, object-oriented programming, version control, and software engineering practices.
+ClearDay was developed as a collaborative software development project for **CS3307**. The project involved C++ application development, GUI development using wxWidgets, object-oriented programming, software design, and collaborative version control.
 
 ## Contributors
 
@@ -84,3 +91,12 @@ ClearDay was developed as a collaborative software development project. The proj
 * Dinith Nawaratne
 * Brandon Nguyen
 * Uday Prashant
+
+## My Contributions
+
+As a member of CS3307 Group 02, I contributed to the development of the ClearDay application with a focus on the graphical user interface and user-facing functionality.
+
+* Designed and implemented the application's graphical user interface using wxWidgets
+* Implemented calendar view highlighting to improve visual navigation and identify the selected/current day
+* Implemented the weather API integration to display weather information within the application
+* Contributed to the overall UI layout, usability, and visual presentation of the calendar
