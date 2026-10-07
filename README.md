@@ -94,9 +94,10 @@ ClearDay was developed as a collaborative software development project for **CS3
 
 ## My Contributions
 
-As a member of CS3307 Group 02, I contributed to the development of the ClearDay application with a focus on the graphical user interface and user-facing functionality.
+As a member of CS3307 Group 02, I contributed to the development of the ClearDay application with a focus on the graphical user interface, calendar functionality, and external API integration.
 
 * Designed and implemented the application's graphical user interface using wxWidgets
 * Implemented calendar view highlighting to improve visual navigation and identify the selected/current day
-* Implemented the weather API integration to display weather information within the application
+* Developed date handling functionality used throughout the calendar application
+* Implemented weather API integration to display weather information within the application
 * Contributed to the overall UI layout, usability, and visual presentation of the calendar
