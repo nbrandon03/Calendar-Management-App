@@ -76,8 +76,10 @@ make clean
 ```
 
 ## Screenshots
-
-Screenshots of the application will be added here.
+https://cdn.discordapp.com/attachments/606678920385003549/1557266751266361484/image.png?backend=b2&ex=6ac72d2e&is=6ac5dbae&hm=e926077df3c9ff08df93303489d1a60fe5692f710b795a571f07db484a381662&
+https://cdn.discordapp.com/attachments/606678920385003549/1557266752067477544/image.png?backend=b2&ex=6ac72d2e&is=6ac5dbae&hm=11ef783608681c19f052947928c61da0715273ef5e29d7e9f6a740091ea616e4&
+https://cdn.discordapp.com/attachments/606678920385003549/1557266752659005470/image.png?backend=b2&ex=6ac72d2e&is=6ac5dbae&hm=88d1db15e306904efd8fb65ea791e2ecb17a1a1188af985589a8b919e63ee09a&
+https://cdn.discordapp.com/attachments/606678920385003549/1557266753283686480/image.png?backend=b2&ex=6ac72d2e&is=6ac5dbae&hm=dda334126001f877811a162e45a405cd562bbb470cd9e8c3faf057feabc7da91&
 
 ## My Contributions
 
